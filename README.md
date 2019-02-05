@@ -1,0 +1,2 @@
+# aiotemplate
+AIOHTTP microservices boilerplate
